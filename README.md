@@ -1,0 +1,2 @@
+# Movie-Recomendation-System
+We all are familiar with movie streaming sites. For example, Netflix, Amazon Prime, Voot etc. We watch movies there in our free time. Interesting part is that after watching some movies that platform gives us suggestion related to that movie or that genre. How that is possible! In that case there must be something which gives us that benefit. That is called recommendation system. This system will capable of learning my watching patterns and providing me with relevant suggestions.
